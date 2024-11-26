@@ -18,7 +18,7 @@ namespace prjloginmetlagenoefenenenenenen.DA
     public class LoginDA
     {
 
-        //we bekijken of de logingegevens correct zijn | I was testing |
+        //we bekijken of de logingegevens correct zijn 
         //boolean om te controleren of ze correct zijn --> True // anders Fale
         public static void LoginValidation(Login L)
         {
